@@ -21,5 +21,5 @@ Performed quantitative and qualitative analysis (IoU, mAP50–95, Jaccard Index,
 Access Policy
 
 Due to university confidentiality and data protection policy, the code and dataset are not made public.
-However, access can be granted privately upon reasonable academic request.
+However, access can be granted privately.
 Requests can be sent to: steffin.nelson@fau.de
